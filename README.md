@@ -1,4 +1,2 @@
 # MeuCursoJava
-Aqui estarei colocando todos os códigos que produzo no decorrer do curso de Java, no qual estou dedicando meu tempo para assistir e aprender!
-
-CADA LINHA DE CÓDIGO DESTES SCRIPTS FORAM DIGITADOS POR MIM. TODOS OS SCRIPTS FORAM VISTOS NAS AULAS DO CURSO DE JAVA QUE ESTOU ASSISTINDO, PORÉM, NÃO COPIEI E COLEI NENHUM DELES. REPLIQUEI SIM OS MESMOS SCRIPTS, PORÉM NÃO USEI NADA PRONTO. DIGITEI CADA LINHA DE CÓDIGO, CRIEI ALGUNS PEQUENOS PROJETINHOS PESSOAIS COMO AS CALCULADORAS (Projeto Calculadora,Projeto Calculadora2,Projeto Calculadora3), ENTRE OUTROS SCRIPTS, MODIFICANDO-OS PARA APRIMORAR A LÓGICA E FIXAR A SEMÂNTICA DA LINGUAGEM, COMO TÉCNICA DE ESTUDO.
+Aqui estarei colocando todos os códigos que produzo no decorrer do curso de Java, no qual estou dedicando meu tempo para aprender esta linguagem tão popular, robusta, completa e eficaz , que já vem nos acompanhando nas melhores tecnologias por alguns anos... Eu desejo que ela esteja sempre no topo das linguagens mais usadas no mundo. =) Seja bem-vindo ao git de um estudante de Análise e Desenvolvimento de Sistemas! 
