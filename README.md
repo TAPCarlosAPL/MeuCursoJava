@@ -1,2 +1,2 @@
 # MeuCursoJava
-Aqui estarei colocando todos os códigos que produzo no decorrer do curso de Java, no qual estou dedicando meu tempo para aprender esta linguagem tão popular, robusta, completa e eficaz , que já vem nos acompanhando nas melhores tecnologias por alguns anos... Eu desejo que ela esteja sempre no topo das linguagens mais usadas no mundo. =) Seja bem-vindo ao git de um estudante de Análise e Desenvolvimento de Sistemas! 
+Perfil acadêm! acompanhe meus estudos e desafios pessoais! ;)
