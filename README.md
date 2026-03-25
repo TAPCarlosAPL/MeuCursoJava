@@ -1,2 +1,2 @@
 # MeuCursoJava
-Perfil acadêmico!
+Repositório Acadêmico
